@@ -32,12 +32,12 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |  
-| Sam Messer | snmesser | |
 | Zhiliang Zhang(Anno) | annoz0521 | <https://github.com/annoz0521>  |
 | Christine Gao | jiajungao |  |
 | TJ McIntyre | tjmcintyre |  |
 | Sabrina Wang    | sabrinawang06  | <https://sabrinawang06.github.io/484project/>     |
 | Ryan Voyack     | ryanvoyack     | <https://ryanvoyack.github.io/Data-Analysis-Ryan-Voyack/> |
+| Yingjie(Chelsea) Wang | KoalaChelsea | <https://github.com/KoalaChelsea> |
 
 # Git integration with RStudio
 
